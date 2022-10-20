@@ -47,3 +47,7 @@ yarn-error.log*
 
 # So folks don't assume npm
 package-lock.json
+
+# next-pwa stuff
+public/sw.js
+public/workbox-*.js
