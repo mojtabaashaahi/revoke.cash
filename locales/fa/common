@@ -1,0 +1,71 @@
+{
+  "buttons": {
+    "cancel": "لغو",
+    "connect": "اتصال کیف پول",
+    "connecting": "متصل سازی",
+    "disconnect": "قطع اتصال",
+    "disconnecting": "غیر متصل سازی",
+    "donate": "اهدا",
+    "donating": "اهدا کردن",
+    "download": "دانلود",
+    "get_started": "شروع",
+    "my_allowances": "دسترسی های من",
+    "revoke": "لغو",
+    "revoking": "لغو کردن",
+    "send": "ارسال",
+    "sending": "در حال ارسال",
+    "switch_chain": "تغییر شبکه",
+    "switching": "در حال تغییر",
+    "update": "آپدیت",
+    "updating": "در حال آپدیت"
+  },
+  "chain_select": {
+    "mainnets": "شبکه های اصلی",
+    "testnets": "شبکه های آزمایشی"
+  },
+  "color_themes": {
+    "dark": "تیره",
+    "light": "روشن",
+    "system": "سیستم"
+  },
+  "donate": {
+    "gitcoin_grants": "یه به <0>Gitcoin Grant</0> ما کمک کنید",
+    "title": "اهدا به Revoke.cash"
+  },
+  "errors": {
+    "404": {
+      "go_home": "یا به خانه برگردید",
+      "subtitle": "صفحه ای که به دنبال آن هستید را نمیتوان یافت.",
+      "suggested_pages": {
+        "extension": {
+          "description": "دانلود افزودنی Revoke.cash مرورگر.",
+          "title": "افزودنی"
+        },
+        "faq": {
+          "description": "پاسخ به تمام سوالات شما.",
+          "title": "FAQ"
+        },
+        "title": "به دنبال یکی از آنها میگردید؟",
+        "your_allowances": {
+          "description": "دسترسی های خود را بررسی کنید.",
+          "title": "دسترسی های شما"
+        }
+      },
+      "title": "این برگه وجود ندارد."
+    }
+  },
+  "footer": {
+    "privacy": "حریم خصوصی",
+    "sponsors": "Sponsors:",
+    "terms": "قوانین"
+  },
+  "meta": {
+    "description": "با لغو دسترسی هایی که در گذشته اعطا کرده اید، کنترل کیف پول خود را پس بگیرید.",
+    "title": "Revoke.cash - لغو دسترسی توکن های Ethereum شما"
+  },
+  "nav": {
+    "extension": "افزونه",
+    "faq": "FAQ",
+    "search": "آدرس خود، یا نام ENS یا دامنه Unstoppable خود را وارد کنید"
+  }
+}
