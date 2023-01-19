@@ -1,0 +1,80 @@
+{
+  "allowances": {
+    "amount": "{{amount}} {{symbol}}",
+    "none": "بدون دسترسی",
+    "token_id": "توکن #{{tokenId}}",
+    "unlimited": "نامحدود"
+  },
+  "filters": {
+    "allowances": {
+      "label": "دسترسیها",
+      "options": {
+        "limited": "محدود",
+        "none": "هیچ",
+        "unlimited": "نامحدود"
+      }
+    },
+    "asset_balance": {
+      "label": "موجودی دارایی",
+      "options": {
+        "non_zero": "هیچ-صفر",
+        "zero": "صفر"
+      }
+    },
+    "asset_type": {
+      "label": "نوع دارایی",
+      "options": {
+        "nft": "NFT",
+        "token": "Token"
+      }
+    },
+    "label": "فلیترها",
+    "showing_everything": "نمایش همه چیز"
+  },
+  "headers": {
+    "actions": "اقدامات",
+    "allowance": "دسترسی ها",
+    "asset": "دارایی",
+    "asset_type": "نوع",
+    "last_updated": "آخرین آپدیت",
+    "spender": "خرج کننده مجاز"
+  },
+  "labels": {
+    "connected": "متصل",
+    "nft": "NFT",
+    "not_connected": "متصل نشده",
+    "token": "Token"
+  },
+  "meta": {
+    "description": "با دسترسی هایی که در گذشته اعطا کرده اید، کنترل کیف پول خود را پس بگیرید.",
+    "title": "Revoke.cash - بررسی و لغو دسترسیها برای {{address}}"
+  },
+  "no_allowances": "هیچ دسترسی پیدا نشد",
+  "sorting": {
+    "columns": {
+      "allowance": "دسترسی",
+      "asset_name": "نام دارایی",
+      "last_updated": "آخرین آپدیت"
+    },
+    "fns": {
+      "date": {
+        "asc": "قدیمی به جدید",
+        "desc": "جدید به قدیمی"
+      },
+      "number": {
+        "asc": "کم به زیاد",
+        "desc": "زیاد به کم"
+      },
+      "text": {
+        "asc": "A به Z",
+        "desc": "Z به A"
+      }
+    },
+    "label": "ترتیب"
+  },
+  "tooltips": {
+    "connect_wallet": "لطفاً کیف پول خود را به منظور لغو وصل کنید",
+    "connected_account": "شما فقط میتوانید دسترسی های اکانت های متصل را لغو کنید",
+    "switch_chain": "لطفا برای لغو دسترسی از داخل کیف پول خود شبکه متصل را به <0>{{chainName}}</0> تغییر دهید"
+  }
+}
